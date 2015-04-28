@@ -1,0 +1,11 @@
+{
+  "name": "Webkadabra/yii-SwiftMailer",
+  "description": "Swift Mailer wrapper class",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Sergii 'b3atb0x'",
+      "email": "hello@webkadabra.com"
+    }
+  ]
+}
